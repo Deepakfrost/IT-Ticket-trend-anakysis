@@ -1,0 +1,501 @@
+Ticket_ID,Date_Created,Date_Closed,Department,Category,Priority,Status,SLA_Breached,Reopened
+TKT1000,2025-06-11 09:02:14,2025-06-20 09:02:14,Finance,Network,Low,Open,Yes,No
+TKT1001,2025-06-29 19:44:23,2025-07-07 19:44:23,Finance,Network,Critical,Resolved,No,No
+TKT1002,2025-03-22 10:36:06,2025-03-27 10:36:06,HR,Network,Medium,Open,No,No
+TKT1003,2025-07-27 17:23:01,2025-07-28 17:23:01,HR,Access,Low,Closed,No,No
+TKT1004,2025-05-24 14:13:15,2025-05-30 14:13:15,IT,Software,Critical,In Progress,No,No
+TKT1005,2025-04-24 08:05:00,2025-04-29 08:05:00,HR,Network,High,Closed,No,No
+TKT1006,2025-07-12 07:22:09,2025-07-17 07:22:09,Finance,Hardware,Medium,Closed,No,No
+TKT1007,2025-02-06 16:10:53,2025-02-08 16:10:53,HR,Access,High,In Progress,No,No
+TKT1008,2025-03-27 12:42:52,2025-04-06 12:42:52,Operations,Email,Critical,Resolved,No,Yes
+TKT1009,2025-06-18 05:57:56,2025-06-22 05:57:56,Sales,Network,Critical,In Progress,No,No
+TKT1010,2025-07-04 08:49:22,2025-07-13 08:49:22,Sales,Software,Medium,Open,No,No
+TKT1011,2025-07-12 14:41:28,2025-07-13 14:41:28,Finance,Email,Critical,Resolved,No,No
+TKT1012,2025-03-02 23:41:25,2025-03-10 23:41:25,HR,Access,High,In Progress,No,No
+TKT1013,2025-04-19 20:54:40,2025-04-22 20:54:40,Operations,Software,Medium,Open,Yes,No
+TKT1014,2025-02-23 12:18:35,2025-02-27 12:18:35,Operations,Network,Medium,In Progress,No,No
+TKT1015,2025-05-08 16:55:40,2025-05-18 16:55:40,IT,Access,Critical,Resolved,No,No
+TKT1016,2025-06-25 01:01:44,2025-07-04 01:01:44,IT,Email,Low,Resolved,No,No
+TKT1017,2025-07-25 02:50:07,2025-07-27 02:50:07,HR,Software,Low,Open,No,Yes
+TKT1018,2025-03-11 09:05:43,2025-03-14 09:05:43,Operations,Email,Medium,Resolved,No,No
+TKT1019,2025-06-29 20:35:01,2025-07-09 20:35:01,IT,Hardware,Critical,In Progress,No,No
+TKT1020,2025-03-25 21:36:36,2025-03-30 21:36:36,Finance,Software,High,In Progress,No,No
+TKT1021,2025-06-18 17:47:56,2025-06-28 17:47:56,Sales,Network,Medium,Open,No,No
+TKT1022,2025-04-04 17:11:45,2025-04-07 17:11:45,Finance,Hardware,Medium,Open,No,No
+TKT1023,2025-03-29 22:35:28,2025-03-30 22:35:28,IT,Access,Low,Closed,No,No
+TKT1024,2025-03-08 04:21:17,2025-03-13 04:21:17,Sales,Network,Medium,Closed,No,No
+TKT1025,2025-04-04 23:16:46,2025-04-07 23:16:46,Sales,Software,Low,Open,No,No
+TKT1026,2025-05-15 23:20:03,2025-05-24 23:20:03,HR,Software,Medium,Open,No,Yes
+TKT1027,2025-04-19 23:37:26,2025-04-27 23:37:26,IT,Software,High,Closed,Yes,No
+TKT1028,2025-04-10 15:46:36,2025-04-18 15:46:36,IT,Network,Medium,In Progress,Yes,No
+TKT1029,2025-02-14 00:37:44,2025-02-24 00:37:44,Sales,Software,High,In Progress,Yes,No
+TKT1030,2025-05-26 21:46:58,2025-06-02 21:46:58,IT,Email,High,Closed,No,No
+TKT1031,2025-03-25 16:52:54,2025-04-02 16:52:54,Sales,Software,High,Closed,No,No
+TKT1032,2025-05-23 15:30:22,2025-05-25 15:30:22,Finance,Software,High,Resolved,Yes,No
+TKT1033,2025-07-22 16:47:14,2025-07-24 16:47:14,Sales,Network,Critical,Closed,No,No
+TKT1034,2025-07-11 16:12:19,2025-07-19 16:12:19,HR,Software,Medium,Closed,No,Yes
+TKT1035,2025-03-24 03:26:34,2025-03-27 03:26:34,Operations,Network,Medium,In Progress,Yes,No
+TKT1036,2025-02-20 06:40:57,2025-02-26 06:40:57,Finance,Email,High,In Progress,No,No
+TKT1037,2025-06-28 00:24:03,2025-07-02 00:24:03,IT,Hardware,Low,In Progress,No,No
+TKT1038,2025-07-26 09:45:03,2025-08-03 09:45:03,Operations,Network,Medium,In Progress,No,No
+TKT1039,2025-04-03 14:13:20,2025-04-05 14:13:20,Finance,Network,Low,Resolved,No,Yes
+TKT1040,2025-07-20 08:50:38,2025-07-30 08:50:38,Finance,Email,Low,In Progress,No,Yes
+TKT1041,2025-02-21 16:45:15,2025-03-03 16:45:15,Finance,Network,High,Closed,No,No
+TKT1042,2025-04-16 05:07:02,2025-04-25 05:07:02,Sales,Access,Low,Open,Yes,No
+TKT1043,2025-03-26 19:33:37,2025-03-30 19:33:37,Operations,Email,Critical,Open,No,No
+TKT1044,2025-02-02 22:14:06,2025-02-05 22:14:06,Operations,Hardware,Critical,Closed,No,Yes
+TKT1045,2025-02-24 16:02:11,2025-02-28 16:02:11,IT,Email,High,In Progress,Yes,No
+TKT1046,2025-02-15 15:43:27,2025-02-21 15:43:27,Finance,Software,High,In Progress,No,Yes
+TKT1047,2025-05-15 04:33:38,2025-05-22 04:33:38,Sales,Access,Medium,Open,No,No
+TKT1048,2025-04-12 14:13:22,2025-04-21 14:13:22,Sales,Email,Critical,Resolved,No,No
+TKT1049,2025-06-14 19:28:34,2025-06-24 19:28:34,HR,Access,Critical,Open,No,No
+TKT1050,2025-03-22 07:58:34,2025-03-31 07:58:34,Operations,Access,High,In Progress,Yes,No
+TKT1051,2025-06-14 19:05:16,2025-06-19 19:05:16,Operations,Software,Low,Open,No,No
+TKT1052,2025-05-09 07:17:11,2025-05-14 07:17:11,Operations,Network,Critical,In Progress,No,No
+TKT1053,2025-05-27 09:41:57,2025-06-03 09:41:57,Finance,Email,Low,Resolved,No,No
+TKT1054,2025-06-05 14:20:39,2025-06-06 14:20:39,Sales,Email,Medium,In Progress,No,Yes
+TKT1055,2025-06-18 20:55:31,2025-06-24 20:55:31,HR,Hardware,Critical,Open,No,No
+TKT1056,2025-07-29 18:12:00,2025-08-07 18:12:00,HR,Hardware,Medium,Closed,Yes,Yes
+TKT1057,2025-07-11 02:20:41,2025-07-13 02:20:41,HR,Software,Medium,Closed,No,No
+TKT1058,2025-03-11 02:02:34,2025-03-21 02:02:34,Sales,Software,Medium,Closed,No,No
+TKT1059,2025-07-03 20:56:49,2025-07-13 20:56:49,Operations,Hardware,Medium,Open,No,No
+TKT1060,2025-02-23 16:28:22,2025-03-02 16:28:22,Operations,Software,Medium,Resolved,No,No
+TKT1061,2025-06-07 03:25:58,2025-06-12 03:25:58,Finance,Hardware,Critical,Resolved,Yes,No
+TKT1062,2025-04-08 14:31:15,2025-04-09 14:31:15,Finance,Network,High,Open,Yes,No
+TKT1063,2025-03-20 06:25:35,2025-03-29 06:25:35,Sales,Network,Medium,Open,No,No
+TKT1064,2025-04-07 06:23:51,2025-04-16 06:23:51,HR,Hardware,Medium,In Progress,No,No
+TKT1065,2025-04-15 22:27:56,2025-04-20 22:27:56,Operations,Access,Low,Resolved,No,No
+TKT1066,2025-06-09 07:02:10,2025-06-12 07:02:10,Finance,Software,Low,Resolved,No,No
+TKT1067,2025-06-04 11:35:21,2025-06-11 11:35:21,Finance,Hardware,High,Open,No,No
+TKT1068,2025-07-30 06:22:26,2025-08-07 06:22:26,Sales,Software,Low,Open,No,No
+TKT1069,2025-07-31 11:54:31,2025-08-10 11:54:31,HR,Hardware,Critical,Closed,No,No
+TKT1070,2025-02-04 11:19:01,2025-02-05 11:19:01,IT,Network,High,Open,No,No
+TKT1071,2025-02-20 05:19:11,2025-02-21 05:19:11,Sales,Network,High,Open,No,No
+TKT1072,2025-03-23 07:35:53,2025-03-25 07:35:53,Operations,Hardware,High,Resolved,Yes,No
+TKT1073,2025-04-20 18:44:44,2025-04-28 18:44:44,IT,Hardware,Low,Open,No,No
+TKT1074,2025-02-10 02:02:27,2025-02-18 02:02:27,Finance,Network,Critical,Closed,No,No
+TKT1075,2025-04-20 14:05:05,2025-04-25 14:05:05,Finance,Email,Medium,Resolved,No,No
+TKT1076,2025-05-17 17:02:29,2025-05-20 17:02:29,Operations,Network,Critical,Open,No,No
+TKT1077,2025-02-28 01:43:50,2025-03-10 01:43:50,Sales,Software,Medium,Resolved,Yes,No
+TKT1078,2025-04-18 17:03:10,2025-04-22 17:03:10,HR,Access,Low,In Progress,No,No
+TKT1079,2025-07-14 14:23:40,2025-07-19 14:23:40,Operations,Access,Medium,In Progress,Yes,Yes
+TKT1080,2025-06-14 06:09:09,2025-06-21 06:09:09,Finance,Hardware,High,Closed,No,No
+TKT1081,2025-03-02 00:40:20,2025-03-08 00:40:20,Finance,Hardware,Medium,Resolved,No,No
+TKT1082,2025-05-17 04:11:26,2025-05-18 04:11:26,IT,Access,Low,In Progress,No,No
+TKT1083,2025-04-13 14:02:37,2025-04-18 14:02:37,HR,Access,High,Open,No,No
+TKT1084,2025-07-08 01:11:23,2025-07-15 01:11:23,Sales,Software,Critical,Closed,No,No
+TKT1085,2025-03-07 12:27:53,2025-03-14 12:27:53,Sales,Hardware,High,Closed,No,Yes
+TKT1086,2025-04-03 04:05:12,2025-04-09 04:05:12,Sales,Access,High,Resolved,No,No
+TKT1087,2025-05-01 20:43:55,2025-05-02 20:43:55,Sales,Email,Critical,Open,No,No
+TKT1088,2025-04-17 06:05:48,2025-04-23 06:05:48,IT,Hardware,Medium,Resolved,No,No
+TKT1089,2025-07-15 20:28:48,2025-07-23 20:28:48,Sales,Network,Low,In Progress,No,No
+TKT1090,2025-03-18 07:14:27,2025-03-28 07:14:27,IT,Access,Medium,Resolved,No,No
+TKT1091,2025-06-16 12:22:10,2025-06-19 12:22:10,IT,Email,High,Closed,No,No
+TKT1092,2025-04-03 04:32:41,2025-04-12 04:32:41,Operations,Email,Medium,Open,No,No
+TKT1093,2025-02-06 09:17:44,2025-02-12 09:17:44,Operations,Access,Medium,Closed,No,No
+TKT1094,2025-05-01 07:56:40,2025-05-06 07:56:40,HR,Access,Low,Closed,No,No
+TKT1095,2025-03-02 04:01:45,2025-03-03 04:01:45,HR,Access,High,Resolved,Yes,No
+TKT1096,2025-05-28 21:49:18,2025-05-30 21:49:18,IT,Email,Low,Closed,No,No
+TKT1097,2025-03-11 18:44:24,2025-03-20 18:44:24,Operations,Network,Medium,Resolved,No,No
+TKT1098,2025-07-19 14:33:54,2025-07-21 14:33:54,HR,Network,High,In Progress,No,No
+TKT1099,2025-03-26 20:42:45,2025-03-31 20:42:45,IT,Hardware,High,Open,No,No
+TKT1100,2025-03-03 15:34:36,2025-03-06 15:34:36,Finance,Network,Medium,In Progress,No,Yes
+TKT1101,2025-02-04 06:08:26,2025-02-08 06:08:26,Finance,Software,High,Closed,No,No
+TKT1102,2025-06-05 08:33:08,2025-06-15 08:33:08,Finance,Network,Medium,Open,No,No
+TKT1103,2025-05-27 00:13:34,2025-06-01 00:13:34,IT,Email,Critical,Open,Yes,No
+TKT1104,2025-03-26 03:35:55,2025-04-04 03:35:55,Operations,Access,Low,In Progress,No,No
+TKT1105,2025-05-16 23:09:10,2025-05-17 23:09:10,IT,Network,Critical,Closed,No,No
+TKT1106,2025-05-02 11:33:08,2025-05-10 11:33:08,HR,Hardware,Low,In Progress,No,No
+TKT1107,2025-06-24 00:06:18,2025-07-03 00:06:18,Sales,Email,Critical,In Progress,No,No
+TKT1108,2025-06-07 13:10:01,2025-06-13 13:10:01,HR,Email,Medium,Open,Yes,No
+TKT1109,2025-02-03 19:43:02,2025-02-06 19:43:02,HR,Access,Critical,In Progress,No,No
+TKT1110,2025-04-04 13:25:21,2025-04-14 13:25:21,HR,Email,High,Resolved,No,Yes
+TKT1111,2025-06-19 00:28:02,2025-06-29 00:28:02,Sales,Network,Critical,Closed,No,No
+TKT1112,2025-07-22 00:34:07,2025-07-31 00:34:07,IT,Access,High,Closed,No,Yes
+TKT1113,2025-02-20 07:11:02,2025-02-26 07:11:02,Sales,Email,Critical,Closed,No,No
+TKT1114,2025-02-22 00:24:22,2025-03-02 00:24:22,Sales,Hardware,High,In Progress,Yes,No
+TKT1115,2025-06-19 04:21:24,2025-06-22 04:21:24,HR,Hardware,Medium,Closed,Yes,No
+TKT1116,2025-03-04 02:08:11,2025-03-05 02:08:11,IT,Software,Low,Open,No,No
+TKT1117,2025-06-07 01:33:27,2025-06-11 01:33:27,Operations,Network,Low,Closed,Yes,No
+TKT1118,2025-06-10 14:07:58,2025-06-13 14:07:58,Sales,Software,Medium,Closed,No,No
+TKT1119,2025-03-02 18:18:52,2025-03-05 18:18:52,HR,Email,Low,Resolved,Yes,No
+TKT1120,2025-06-09 02:12:57,2025-06-19 02:12:57,HR,Network,Medium,In Progress,No,No
+TKT1121,2025-05-24 03:41:12,2025-06-03 03:41:12,IT,Network,Medium,Open,No,Yes
+TKT1122,2025-03-02 14:18:36,2025-03-03 14:18:36,HR,Network,High,Closed,Yes,No
+TKT1123,2025-04-01 19:50:00,2025-04-02 19:50:00,IT,Email,Critical,Resolved,No,No
+TKT1124,2025-06-12 13:28:01,2025-06-13 13:28:01,Finance,Network,High,Resolved,No,No
+TKT1125,2025-07-24 12:18:08,2025-08-03 12:18:08,HR,Software,Medium,In Progress,No,No
+TKT1126,2025-07-16 20:15:45,2025-07-19 20:15:45,Sales,Software,Critical,In Progress,No,No
+TKT1127,2025-02-28 20:53:34,2025-03-04 20:53:34,IT,Access,High,Closed,Yes,No
+TKT1128,2025-05-17 13:36:58,2025-05-25 13:36:58,HR,Access,Low,Open,No,No
+TKT1129,2025-07-16 22:03:11,2025-07-17 22:03:11,HR,Hardware,Medium,Resolved,No,Yes
+TKT1130,2025-07-04 00:22:20,2025-07-12 00:22:20,IT,Access,Low,Closed,No,No
+TKT1131,2025-03-14 11:48:55,2025-03-16 11:48:55,Sales,Network,High,Resolved,No,No
+TKT1132,2025-07-25 05:07:45,2025-08-02 05:07:45,HR,Access,High,Closed,No,No
+TKT1133,2025-07-16 09:21:38,2025-07-25 09:21:38,HR,Email,Critical,Closed,No,No
+TKT1134,2025-07-09 11:53:03,2025-07-16 11:53:03,IT,Network,High,Closed,No,No
+TKT1135,2025-07-29 09:00:26,2025-08-01 09:00:26,Sales,Email,High,In Progress,No,No
+TKT1136,2025-02-04 18:41:54,2025-02-08 18:41:54,HR,Network,Medium,Resolved,No,No
+TKT1137,2025-06-24 20:28:26,2025-07-03 20:28:26,Finance,Hardware,Medium,Resolved,No,No
+TKT1138,2025-03-02 21:12:43,2025-03-06 21:12:43,HR,Access,Medium,In Progress,No,No
+TKT1139,2025-06-12 15:48:54,2025-06-19 15:48:54,Operations,Access,Critical,Resolved,No,No
+TKT1140,2025-03-03 21:06:13,2025-03-07 21:06:13,HR,Software,Medium,Resolved,No,No
+TKT1141,2025-03-18 09:14:42,2025-03-25 09:14:42,Sales,Software,High,In Progress,No,No
+TKT1142,2025-03-19 05:43:09,2025-03-27 05:43:09,Finance,Access,Low,In Progress,No,No
+TKT1143,2025-06-18 20:15:53,2025-06-25 20:15:53,Sales,Email,Medium,In Progress,No,No
+TKT1144,2025-03-21 07:03:18,2025-03-25 07:03:18,IT,Access,Critical,Closed,No,Yes
+TKT1145,2025-07-23 08:15:37,2025-07-25 08:15:37,Sales,Hardware,Critical,Open,Yes,No
+TKT1146,2025-05-01 14:24:28,2025-05-07 14:24:28,HR,Software,Medium,Closed,No,No
+TKT1147,2025-02-24 08:51:22,2025-02-26 08:51:22,HR,Email,Medium,Closed,No,Yes
+TKT1148,2025-03-21 11:55:47,2025-03-27 11:55:47,HR,Software,High,In Progress,Yes,No
+TKT1149,2025-03-22 02:54:48,2025-03-25 02:54:48,Finance,Network,High,Open,No,No
+TKT1150,2025-07-02 14:03:52,2025-07-04 14:03:52,IT,Email,Low,Resolved,No,No
+TKT1151,2025-03-24 10:58:31,2025-04-03 10:58:31,IT,Email,Medium,Open,No,No
+TKT1152,2025-02-03 07:30:33,2025-02-13 07:30:33,Operations,Hardware,Medium,In Progress,No,No
+TKT1153,2025-07-14 06:00:54,2025-07-18 06:00:54,Finance,Email,Critical,Resolved,No,No
+TKT1154,2025-06-26 13:26:25,2025-07-05 13:26:25,Operations,Software,Medium,Resolved,No,No
+TKT1155,2025-07-02 20:23:47,2025-07-11 20:23:47,HR,Software,Low,Closed,No,No
+TKT1156,2025-06-12 11:30:30,2025-06-14 11:30:30,Finance,Network,Medium,In Progress,Yes,Yes
+TKT1157,2025-06-10 19:19:22,2025-06-17 19:19:22,Operations,Hardware,Low,Resolved,Yes,No
+TKT1158,2025-03-15 10:43:01,2025-03-24 10:43:01,Sales,Software,Critical,In Progress,No,No
+TKT1159,2025-04-15 21:12:43,2025-04-22 21:12:43,HR,Hardware,Low,In Progress,No,No
+TKT1160,2025-06-24 22:06:01,2025-07-04 22:06:01,IT,Network,High,Open,No,No
+TKT1161,2025-02-13 21:19:26,2025-02-19 21:19:26,Sales,Email,High,In Progress,No,No
+TKT1162,2025-07-17 16:16:42,2025-07-22 16:16:42,Sales,Software,High,Resolved,No,Yes
+TKT1163,2025-03-09 04:29:16,2025-03-13 04:29:16,Sales,Hardware,High,Resolved,No,No
+TKT1164,2025-07-23 10:08:53,2025-07-29 10:08:53,Sales,Access,Low,Resolved,No,Yes
+TKT1165,2025-07-20 22:09:51,2025-07-26 22:09:51,HR,Network,Low,In Progress,No,No
+TKT1166,2025-05-17 12:29:59,2025-05-26 12:29:59,IT,Network,Low,Open,No,No
+TKT1167,2025-05-16 21:52:40,2025-05-26 21:52:40,Finance,Network,Critical,In Progress,Yes,No
+TKT1168,2025-07-07 05:43:36,2025-07-17 05:43:36,Operations,Access,Medium,Closed,No,No
+TKT1169,2025-05-26 08:55:08,2025-06-01 08:55:08,Finance,Access,Medium,Resolved,Yes,No
+TKT1170,2025-06-14 11:17:51,2025-06-18 11:17:51,IT,Network,Low,In Progress,No,No
+TKT1171,2025-05-14 12:20:01,2025-05-19 12:20:01,HR,Access,High,Resolved,No,No
+TKT1172,2025-02-22 09:57:34,2025-02-24 09:57:34,Operations,Software,High,In Progress,No,No
+TKT1173,2025-05-20 14:35:04,2025-05-27 14:35:04,Finance,Network,Critical,In Progress,No,No
+TKT1174,2025-04-17 09:11:52,2025-04-25 09:11:52,Sales,Hardware,High,Open,Yes,No
+TKT1175,2025-03-11 12:26:18,2025-03-16 12:26:18,Operations,Network,Critical,In Progress,No,No
+TKT1176,2025-05-20 14:47:47,2025-05-26 14:47:47,Sales,Network,Medium,In Progress,No,No
+TKT1177,2025-02-19 02:12:15,2025-02-26 02:12:15,Sales,Software,Low,In Progress,No,No
+TKT1178,2025-06-25 10:49:28,2025-06-29 10:49:28,IT,Email,Critical,Closed,No,No
+TKT1179,2025-06-19 06:39:54,2025-06-25 06:39:54,IT,Network,High,Open,No,Yes
+TKT1180,2025-04-20 02:57:27,2025-04-25 02:57:27,Finance,Access,Medium,In Progress,No,No
+TKT1181,2025-05-29 19:36:10,2025-06-07 19:36:10,Finance,Email,Low,Resolved,No,No
+TKT1182,2025-07-24 11:58:54,2025-08-02 11:58:54,HR,Software,High,Closed,Yes,No
+TKT1183,2025-06-25 13:22:11,2025-07-01 13:22:11,HR,Email,Critical,Resolved,Yes,No
+TKT1184,2025-06-14 01:48:46,2025-06-18 01:48:46,IT,Network,Low,Resolved,No,No
+TKT1185,2025-05-20 16:40:10,2025-05-25 16:40:10,Sales,Software,Medium,Closed,No,No
+TKT1186,2025-05-26 07:15:37,2025-05-28 07:15:37,HR,Software,High,Closed,No,No
+TKT1187,2025-03-25 00:35:00,2025-03-27 00:35:00,Sales,Access,Critical,Open,No,No
+TKT1188,2025-02-11 00:24:35,2025-02-17 00:24:35,IT,Access,Low,Open,No,No
+TKT1189,2025-06-15 09:18:37,2025-06-23 09:18:37,Operations,Access,Critical,Closed,Yes,No
+TKT1190,2025-02-17 15:25:08,2025-02-18 15:25:08,HR,Hardware,Low,Open,No,No
+TKT1191,2025-02-02 05:17:59,2025-02-06 05:17:59,Finance,Network,Medium,In Progress,Yes,No
+TKT1192,2025-05-25 03:53:58,2025-05-27 03:53:58,HR,Network,Medium,Open,Yes,No
+TKT1193,2025-03-20 22:53:51,2025-03-24 22:53:51,Operations,Access,Critical,Closed,No,No
+TKT1194,2025-03-12 07:44:59,2025-03-19 07:44:59,Sales,Network,Critical,Resolved,No,No
+TKT1195,2025-04-02 16:36:40,2025-04-04 16:36:40,HR,Email,High,Closed,Yes,No
+TKT1196,2025-02-27 12:36:14,2025-03-03 12:36:14,IT,Hardware,Low,Closed,No,No
+TKT1197,2025-03-31 03:40:04,2025-04-09 03:40:04,Sales,Hardware,High,Open,No,Yes
+TKT1198,2025-05-02 02:54:52,2025-05-08 02:54:52,HR,Email,Low,Closed,No,Yes
+TKT1199,2025-07-30 00:18:32,2025-08-06 00:18:32,HR,Email,Medium,Open,Yes,No
+TKT1200,2025-06-18 10:03:13,2025-06-26 10:03:13,Sales,Access,High,Resolved,No,No
+TKT1201,2025-07-14 01:16:09,2025-07-23 01:16:09,IT,Access,Critical,Open,Yes,No
+TKT1202,2025-04-21 22:37:08,2025-04-26 22:37:08,Operations,Hardware,Low,Resolved,No,Yes
+TKT1203,2025-02-11 16:27:12,2025-02-17 16:27:12,Operations,Network,Medium,Open,No,No
+TKT1204,2025-04-22 21:14:27,2025-05-01 21:14:27,Sales,Hardware,Critical,In Progress,Yes,No
+TKT1205,2025-07-26 11:22:19,2025-07-31 11:22:19,Sales,Network,Critical,Resolved,No,No
+TKT1206,2025-02-28 02:23:14,2025-03-04 02:23:14,HR,Access,Critical,Resolved,Yes,No
+TKT1207,2025-07-21 13:07:02,2025-07-25 13:07:02,Sales,Software,Medium,In Progress,No,No
+TKT1208,2025-07-20 05:58:36,2025-07-25 05:58:36,Sales,Access,Critical,Closed,No,No
+TKT1209,2025-05-26 06:23:39,2025-05-31 06:23:39,IT,Email,High,In Progress,No,No
+TKT1210,2025-04-06 01:44:15,2025-04-10 01:44:15,IT,Access,Critical,Open,No,No
+TKT1211,2025-04-25 15:48:56,2025-05-02 15:48:56,Finance,Hardware,Low,Closed,No,No
+TKT1212,2025-04-09 17:23:46,2025-04-10 17:23:46,Sales,Network,Medium,In Progress,No,No
+TKT1213,2025-05-11 13:03:50,2025-05-16 13:03:50,Finance,Hardware,Critical,Closed,No,No
+TKT1214,2025-02-01 02:27:24,2025-02-08 02:27:24,Sales,Network,Medium,Closed,No,No
+TKT1215,2025-05-27 04:01:02,2025-06-06 04:01:02,Finance,Access,High,Open,Yes,Yes
+TKT1216,2025-06-27 01:39:15,2025-06-28 01:39:15,HR,Network,High,In Progress,No,No
+TKT1217,2025-02-19 11:26:16,2025-02-23 11:26:16,IT,Access,Medium,Open,No,No
+TKT1218,2025-04-16 23:24:52,2025-04-18 23:24:52,IT,Network,Low,Open,No,No
+TKT1219,2025-05-04 19:06:28,2025-05-06 19:06:28,HR,Email,High,In Progress,No,No
+TKT1220,2025-03-26 15:08:45,2025-03-31 15:08:45,Operations,Software,Low,Closed,No,No
+TKT1221,2025-03-30 00:46:00,2025-04-05 00:46:00,IT,Software,Low,Closed,No,No
+TKT1222,2025-07-12 01:10:55,2025-07-22 01:10:55,HR,Network,Medium,Open,No,Yes
+TKT1223,2025-05-18 01:16:39,2025-05-20 01:16:39,Finance,Software,Critical,Closed,No,No
+TKT1224,2025-05-09 23:31:58,2025-05-10 23:31:58,Operations,Hardware,Low,Resolved,No,No
+TKT1225,2025-05-27 23:20:46,2025-05-31 23:20:46,HR,Hardware,High,Resolved,Yes,Yes
+TKT1226,2025-07-15 20:44:07,2025-07-23 20:44:07,Finance,Network,High,In Progress,No,No
+TKT1227,2025-04-08 13:09:49,2025-04-16 13:09:49,Finance,Access,High,Resolved,No,No
+TKT1228,2025-04-14 10:22:34,2025-04-24 10:22:34,Operations,Email,High,Open,No,Yes
+TKT1229,2025-04-05 20:35:59,2025-04-09 20:35:59,Operations,Hardware,High,Open,No,Yes
+TKT1230,2025-02-06 05:32:13,2025-02-12 05:32:13,Sales,Access,High,In Progress,Yes,No
+TKT1231,2025-06-08 00:59:44,2025-06-14 00:59:44,Operations,Software,Medium,In Progress,No,Yes
+TKT1232,2025-03-05 20:34:41,2025-03-14 20:34:41,Sales,Network,Low,Open,No,No
+TKT1233,2025-07-11 21:28:35,2025-07-12 21:28:35,IT,Email,High,Open,No,No
+TKT1234,2025-06-19 09:04:59,2025-06-21 09:04:59,HR,Software,Critical,Closed,No,No
+TKT1235,2025-05-24 13:11:46,2025-05-28 13:11:46,IT,Network,Low,In Progress,No,No
+TKT1236,2025-05-08 12:24:33,2025-05-09 12:24:33,HR,Hardware,High,Open,Yes,Yes
+TKT1237,2025-02-01 22:05:11,2025-02-03 22:05:11,Finance,Network,Critical,Resolved,No,No
+TKT1238,2025-05-13 21:58:40,2025-05-15 21:58:40,Operations,Hardware,High,Closed,No,No
+TKT1239,2025-03-14 05:46:16,2025-03-15 05:46:16,Operations,Network,Critical,Resolved,No,No
+TKT1240,2025-04-10 22:27:59,2025-04-14 22:27:59,Sales,Access,Critical,Open,Yes,No
+TKT1241,2025-02-05 15:07:35,2025-02-13 15:07:35,IT,Hardware,Medium,Resolved,No,No
+TKT1242,2025-06-15 02:07:59,2025-06-19 02:07:59,Finance,Email,Critical,Open,No,No
+TKT1243,2025-02-04 23:20:02,2025-02-11 23:20:02,Finance,Hardware,High,Open,No,No
+TKT1244,2025-05-27 19:31:01,2025-06-03 19:31:01,HR,Hardware,High,Open,No,No
+TKT1245,2025-04-21 06:02:22,2025-04-23 06:02:22,Operations,Software,Critical,Open,No,No
+TKT1246,2025-04-16 04:13:28,2025-04-26 04:13:28,Sales,Access,High,Resolved,No,No
+TKT1247,2025-04-25 02:33:14,2025-05-04 02:33:14,IT,Network,High,Open,No,No
+TKT1248,2025-03-05 23:09:24,2025-03-08 23:09:24,Finance,Network,Medium,Closed,Yes,No
+TKT1249,2025-05-29 12:41:41,2025-06-01 12:41:41,Operations,Software,High,In Progress,No,No
+TKT1250,2025-07-25 02:20:47,2025-07-27 02:20:47,IT,Access,Medium,In Progress,No,No
+TKT1251,2025-07-18 15:17:28,2025-07-28 15:17:28,Finance,Network,High,Resolved,No,No
+TKT1252,2025-07-03 13:57:37,2025-07-05 13:57:37,Operations,Hardware,Low,Closed,No,No
+TKT1253,2025-02-22 01:34:09,2025-03-01 01:34:09,Sales,Access,Low,Resolved,No,No
+TKT1254,2025-03-23 02:35:40,2025-03-29 02:35:40,IT,Email,Medium,In Progress,No,No
+TKT1255,2025-06-02 03:39:50,2025-06-08 03:39:50,IT,Access,Low,In Progress,No,No
+TKT1256,2025-02-05 18:48:24,2025-02-09 18:48:24,Operations,Software,Medium,Closed,Yes,Yes
+TKT1257,2025-03-13 10:32:45,2025-03-23 10:32:45,HR,Access,High,Resolved,No,No
+TKT1258,2025-04-04 21:31:29,2025-04-05 21:31:29,IT,Network,Critical,Resolved,No,No
+TKT1259,2025-04-03 13:47:35,2025-04-12 13:47:35,Operations,Software,High,Resolved,No,No
+TKT1260,2025-03-16 16:17:05,2025-03-17 16:17:05,HR,Access,Critical,Resolved,Yes,No
+TKT1261,2025-04-02 18:03:21,2025-04-07 18:03:21,HR,Hardware,Critical,In Progress,No,No
+TKT1262,2025-07-28 09:55:00,2025-08-05 09:55:00,Finance,Hardware,Medium,Resolved,No,No
+TKT1263,2025-03-18 17:48:14,2025-03-28 17:48:14,IT,Access,High,Resolved,No,Yes
+TKT1264,2025-06-14 01:47:37,2025-06-18 01:47:37,Sales,Hardware,Medium,Open,No,No
+TKT1265,2025-02-23 15:47:42,2025-03-02 15:47:42,HR,Access,Low,In Progress,No,No
+TKT1266,2025-05-19 22:24:10,2025-05-23 22:24:10,IT,Software,Critical,Resolved,No,No
+TKT1267,2025-03-20 03:03:22,2025-03-27 03:03:22,Finance,Software,Medium,Open,No,No
+TKT1268,2025-05-16 02:47:51,2025-05-18 02:47:51,IT,Hardware,Critical,In Progress,Yes,No
+TKT1269,2025-06-15 03:00:14,2025-06-19 03:00:14,Sales,Access,Critical,Open,No,No
+TKT1270,2025-04-04 21:03:18,2025-04-09 21:03:18,Operations,Hardware,High,Resolved,No,No
+TKT1271,2025-06-07 05:30:11,2025-06-15 05:30:11,IT,Hardware,Medium,In Progress,No,No
+TKT1272,2025-07-27 03:22:55,2025-08-05 03:22:55,IT,Network,Low,Resolved,No,No
+TKT1273,2025-04-11 15:22:33,2025-04-13 15:22:33,Operations,Email,Medium,In Progress,No,No
+TKT1274,2025-02-01 02:13:21,2025-02-09 02:13:21,IT,Hardware,Low,Closed,No,No
+TKT1275,2025-05-17 21:42:46,2025-05-23 21:42:46,Sales,Software,Medium,Resolved,No,No
+TKT1276,2025-06-01 15:56:16,2025-06-05 15:56:16,HR,Access,Low,In Progress,No,No
+TKT1277,2025-03-01 08:46:34,2025-03-07 08:46:34,HR,Hardware,High,Closed,No,No
+TKT1278,2025-05-11 16:49:16,2025-05-13 16:49:16,Finance,Hardware,High,Open,No,No
+TKT1279,2025-06-08 20:43:03,2025-06-17 20:43:03,Finance,Email,Critical,Open,No,No
+TKT1280,2025-04-20 19:31:52,2025-04-30 19:31:52,IT,Email,Critical,Closed,No,Yes
+TKT1281,2025-03-23 00:39:30,2025-03-30 00:39:30,HR,Hardware,Medium,Closed,Yes,No
+TKT1282,2025-05-27 15:55:15,2025-05-31 15:55:15,IT,Network,Low,Resolved,No,No
+TKT1283,2025-04-20 22:58:23,2025-04-27 22:58:23,HR,Network,Medium,Open,No,Yes
+TKT1284,2025-02-18 04:07:01,2025-02-22 04:07:01,Operations,Hardware,Medium,Open,No,No
+TKT1285,2025-07-16 08:13:04,2025-07-22 08:13:04,Operations,Hardware,Medium,Closed,No,No
+TKT1286,2025-05-07 20:10:33,2025-05-10 20:10:33,Sales,Software,Low,Open,No,No
+TKT1287,2025-03-26 16:46:49,2025-04-05 16:46:49,Finance,Software,Low,Open,No,No
+TKT1288,2025-03-02 02:33:44,2025-03-05 02:33:44,Operations,Access,High,Closed,Yes,No
+TKT1289,2025-03-25 15:56:08,2025-03-29 15:56:08,HR,Access,Medium,Closed,No,No
+TKT1290,2025-05-26 07:53:55,2025-05-28 07:53:55,HR,Hardware,Critical,In Progress,No,No
+TKT1291,2025-04-26 12:33:14,2025-05-01 12:33:14,Finance,Access,High,Resolved,No,No
+TKT1292,2025-06-27 11:52:35,2025-07-01 11:52:35,Finance,Hardware,Medium,Resolved,No,No
+TKT1293,2025-06-09 05:13:04,2025-06-11 05:13:04,IT,Email,Low,Closed,No,No
+TKT1294,2025-05-18 21:29:21,2025-05-20 21:29:21,Finance,Hardware,Low,Resolved,No,No
+TKT1295,2025-07-21 02:23:39,2025-07-24 02:23:39,HR,Access,Medium,Closed,No,Yes
+TKT1296,2025-04-30 11:11:30,2025-05-08 11:11:30,HR,Email,Medium,Resolved,No,No
+TKT1297,2025-07-06 00:27:48,2025-07-15 00:27:48,Sales,Software,Low,Open,No,No
+TKT1298,2025-04-27 10:42:26,2025-04-28 10:42:26,Finance,Network,High,Closed,No,No
+TKT1299,2025-02-21 11:47:16,2025-02-25 11:47:16,HR,Email,Critical,Open,No,No
+TKT1300,2025-02-15 12:37:06,2025-02-22 12:37:06,Operations,Access,High,Open,Yes,No
+TKT1301,2025-05-19 02:08:37,2025-05-21 02:08:37,HR,Hardware,Medium,Resolved,No,No
+TKT1302,2025-03-10 11:48:53,2025-03-14 11:48:53,Finance,Software,Critical,In Progress,No,No
+TKT1303,2025-05-25 01:54:50,2025-05-31 01:54:50,Sales,Network,High,Open,No,No
+TKT1304,2025-05-27 20:46:17,2025-06-01 20:46:17,HR,Network,Critical,In Progress,No,No
+TKT1305,2025-03-29 20:36:29,2025-04-08 20:36:29,Sales,Network,Low,Closed,No,No
+TKT1306,2025-05-24 16:45:49,2025-06-02 16:45:49,Operations,Email,Critical,Open,No,No
+TKT1307,2025-02-10 00:49:22,2025-02-16 00:49:22,Sales,Software,Critical,In Progress,No,No
+TKT1308,2025-07-09 16:36:13,2025-07-12 16:36:13,IT,Hardware,Critical,Open,No,No
+TKT1309,2025-03-31 17:35:32,2025-04-08 17:35:32,Sales,Hardware,Low,Resolved,Yes,No
+TKT1310,2025-02-25 13:14:22,2025-03-07 13:14:22,IT,Access,Medium,In Progress,No,No
+TKT1311,2025-05-26 09:34:28,2025-06-04 09:34:28,Operations,Hardware,Critical,Resolved,No,No
+TKT1312,2025-02-14 17:37:30,2025-02-23 17:37:30,HR,Email,High,Closed,Yes,No
+TKT1313,2025-05-22 12:22:35,2025-05-29 12:22:35,Operations,Access,Low,Closed,Yes,No
+TKT1314,2025-04-11 12:39:31,2025-04-19 12:39:31,Finance,Hardware,Low,Closed,No,No
+TKT1315,2025-06-01 09:00:05,2025-06-10 09:00:05,Finance,Access,High,Resolved,Yes,No
+TKT1316,2025-04-15 14:27:43,2025-04-25 14:27:43,Operations,Software,Medium,Closed,No,No
+TKT1317,2025-02-01 00:52:40,2025-02-05 00:52:40,Operations,Email,High,Resolved,No,No
+TKT1318,2025-02-10 08:35:32,2025-02-16 08:35:32,HR,Hardware,Low,Closed,No,No
+TKT1319,2025-02-02 02:46:44,2025-02-09 02:46:44,Operations,Access,Low,In Progress,No,No
+TKT1320,2025-07-14 13:34:17,2025-07-23 13:34:17,IT,Hardware,Low,In Progress,Yes,No
+TKT1321,2025-07-21 17:24:30,2025-07-23 17:24:30,HR,Network,Critical,In Progress,Yes,No
+TKT1322,2025-03-04 20:05:06,2025-03-11 20:05:06,IT,Access,High,In Progress,Yes,No
+TKT1323,2025-03-03 21:58:45,2025-03-12 21:58:45,Sales,Access,Critical,Resolved,No,No
+TKT1324,2025-05-13 12:53:58,2025-05-18 12:53:58,Finance,Email,High,Open,No,No
+TKT1325,2025-04-21 21:53:24,2025-04-28 21:53:24,HR,Network,High,In Progress,No,No
+TKT1326,2025-07-05 11:06:15,2025-07-13 11:06:15,Sales,Network,Critical,Open,No,No
+TKT1327,2025-06-04 00:06:57,2025-06-10 00:06:57,Operations,Software,Low,Resolved,No,No
+TKT1328,2025-06-13 07:49:09,2025-06-22 07:49:09,IT,Software,Low,Resolved,Yes,Yes
+TKT1329,2025-05-25 04:40:32,2025-05-28 04:40:32,Operations,Software,Low,Resolved,No,No
+TKT1330,2025-07-30 14:16:05,2025-08-03 14:16:05,HR,Email,High,Open,No,No
+TKT1331,2025-04-29 15:28:31,2025-05-02 15:28:31,HR,Network,Medium,In Progress,Yes,No
+TKT1332,2025-04-10 10:41:37,2025-04-20 10:41:37,IT,Email,High,In Progress,No,No
+TKT1333,2025-02-24 20:33:54,2025-03-01 20:33:54,Finance,Software,High,Resolved,No,Yes
+TKT1334,2025-06-30 00:55:02,2025-07-02 00:55:02,Operations,Access,Critical,In Progress,No,No
+TKT1335,2025-04-03 22:34:10,2025-04-10 22:34:10,Operations,Software,Low,Resolved,Yes,No
+TKT1336,2025-06-03 11:46:20,2025-06-06 11:46:20,Operations,Hardware,Low,Open,No,No
+TKT1337,2025-06-09 23:07:01,2025-06-11 23:07:01,Sales,Access,Low,Closed,No,No
+TKT1338,2025-03-11 16:34:34,2025-03-18 16:34:34,Finance,Email,High,Open,No,No
+TKT1339,2025-05-26 03:41:46,2025-06-04 03:41:46,Sales,Email,Low,Closed,No,Yes
+TKT1340,2025-02-12 00:58:35,2025-02-15 00:58:35,IT,Hardware,Low,Closed,No,No
+TKT1341,2025-02-14 17:02:45,2025-02-20 17:02:45,Sales,Email,High,Open,No,Yes
+TKT1342,2025-03-10 02:50:06,2025-03-15 02:50:06,HR,Software,High,Resolved,No,No
+TKT1343,2025-03-12 04:51:22,2025-03-17 04:51:22,IT,Email,Critical,Resolved,No,No
+TKT1344,2025-07-06 10:35:16,2025-07-08 10:35:16,IT,Hardware,Low,Open,No,No
+TKT1345,2025-07-15 12:35:13,2025-07-22 12:35:13,HR,Software,Low,Resolved,No,Yes
+TKT1346,2025-05-28 14:54:47,2025-06-03 14:54:47,Sales,Network,High,In Progress,No,No
+TKT1347,2025-06-03 02:56:20,2025-06-04 02:56:20,Operations,Network,Low,Resolved,Yes,No
+TKT1348,2025-07-22 23:25:06,2025-07-31 23:25:06,Finance,Software,Low,Resolved,No,No
+TKT1349,2025-03-21 03:18:16,2025-03-29 03:18:16,HR,Access,Low,In Progress,No,No
+TKT1350,2025-05-29 19:48:13,2025-06-08 19:48:13,Finance,Hardware,Medium,Open,No,No
+TKT1351,2025-06-19 01:59:59,2025-06-20 01:59:59,Finance,Software,Critical,In Progress,No,No
+TKT1352,2025-05-18 14:53:48,2025-05-28 14:53:48,Operations,Network,Low,Open,Yes,No
+TKT1353,2025-04-17 19:50:43,2025-04-19 19:50:43,HR,Hardware,Medium,Closed,No,No
+TKT1354,2025-04-19 20:10:03,2025-04-26 20:10:03,Sales,Email,High,In Progress,No,No
+TKT1355,2025-05-11 09:32:09,2025-05-14 09:32:09,Sales,Hardware,High,In Progress,No,No
+TKT1356,2025-03-02 18:54:32,2025-03-08 18:54:32,IT,Network,Low,Closed,No,No
+TKT1357,2025-03-08 00:52:44,2025-03-09 00:52:44,Sales,Access,Low,Resolved,Yes,No
+TKT1358,2025-03-16 19:04:06,2025-03-25 19:04:06,Finance,Access,Low,Resolved,No,No
+TKT1359,2025-07-08 01:19:29,2025-07-12 01:19:29,HR,Email,Medium,Open,No,No
+TKT1360,2025-03-23 10:41:52,2025-03-24 10:41:52,Operations,Network,High,In Progress,No,No
+TKT1361,2025-02-25 07:26:23,2025-03-07 07:26:23,IT,Network,Medium,Closed,No,No
+TKT1362,2025-04-03 10:33:54,2025-04-04 10:33:54,Finance,Software,Medium,In Progress,No,No
+TKT1363,2025-04-16 10:48:53,2025-04-23 10:48:53,Finance,Software,Critical,In Progress,No,Yes
+TKT1364,2025-04-21 19:59:59,2025-04-30 19:59:59,HR,Software,Critical,In Progress,No,Yes
+TKT1365,2025-03-19 02:26:56,2025-03-21 02:26:56,HR,Email,High,Closed,No,Yes
+TKT1366,2025-04-06 06:33:46,2025-04-16 06:33:46,IT,Hardware,Critical,Open,No,No
+TKT1367,2025-02-06 09:21:57,2025-02-14 09:21:57,Sales,Email,Medium,Closed,Yes,No
+TKT1368,2025-04-10 07:39:35,2025-04-12 07:39:35,Sales,Network,Low,In Progress,No,No
+TKT1369,2025-03-04 00:39:04,2025-03-07 00:39:04,IT,Hardware,Medium,In Progress,Yes,No
+TKT1370,2025-07-26 10:56:33,2025-07-28 10:56:33,Sales,Software,Critical,Open,No,No
+TKT1371,2025-07-03 01:29:03,2025-07-06 01:29:03,Sales,Email,Medium,Open,No,No
+TKT1372,2025-07-21 09:38:35,2025-07-27 09:38:35,Operations,Hardware,Critical,Closed,No,No
+TKT1373,2025-07-24 14:29:07,2025-07-29 14:29:07,HR,Network,Critical,Resolved,No,No
+TKT1374,2025-04-23 17:50:23,2025-04-28 17:50:23,Sales,Software,High,Closed,No,No
+TKT1375,2025-04-08 04:51:18,2025-04-15 04:51:18,HR,Hardware,Medium,Resolved,No,No
+TKT1376,2025-02-09 20:55:58,2025-02-10 20:55:58,HR,Email,Critical,Open,No,No
+TKT1377,2025-04-24 00:09:23,2025-05-02 00:09:23,Sales,Network,Critical,Resolved,No,No
+TKT1378,2025-07-08 14:15:08,2025-07-18 14:15:08,Operations,Network,Low,Resolved,No,No
+TKT1379,2025-05-18 02:04:27,2025-05-23 02:04:27,HR,Network,Low,Open,No,No
+TKT1380,2025-02-03 16:15:35,2025-02-08 16:15:35,Finance,Hardware,Medium,Resolved,Yes,No
+TKT1381,2025-05-15 07:00:21,2025-05-17 07:00:21,HR,Email,High,Open,Yes,No
+TKT1382,2025-07-31 23:46:07,2025-08-09 23:46:07,Sales,Software,Medium,Open,No,No
+TKT1383,2025-05-20 19:06:27,2025-05-30 19:06:27,Operations,Hardware,Medium,Closed,Yes,No
+TKT1384,2025-02-08 11:52:36,2025-02-09 11:52:36,Sales,Access,Low,Resolved,No,Yes
+TKT1385,2025-06-13 04:07:27,2025-06-17 04:07:27,Operations,Hardware,Critical,Closed,Yes,No
+TKT1386,2025-03-12 07:41:53,2025-03-21 07:41:53,IT,Hardware,Low,Resolved,No,Yes
+TKT1387,2025-05-10 06:10:03,2025-05-19 06:10:03,Sales,Access,Low,Closed,Yes,Yes
+TKT1388,2025-03-17 04:19:29,2025-03-20 04:19:29,IT,Network,Medium,Resolved,No,No
+TKT1389,2025-05-12 13:15:54,2025-05-17 13:15:54,HR,Network,High,Closed,Yes,No
+TKT1390,2025-07-13 11:55:07,2025-07-19 11:55:07,Operations,Email,High,In Progress,No,Yes
+TKT1391,2025-04-27 18:54:46,2025-04-28 18:54:46,Operations,Email,Medium,In Progress,Yes,No
+TKT1392,2025-03-15 20:04:08,2025-03-21 20:04:08,Operations,Network,Medium,Closed,Yes,Yes
+TKT1393,2025-03-11 10:02:36,2025-03-17 10:02:36,Finance,Software,Critical,Open,No,No
+TKT1394,2025-07-22 13:20:47,2025-07-25 13:20:47,HR,Email,Medium,Resolved,Yes,No
+TKT1395,2025-04-14 11:08:44,2025-04-24 11:08:44,IT,Hardware,Medium,Resolved,No,No
+TKT1396,2025-05-24 11:34:31,2025-06-02 11:34:31,HR,Software,Medium,Resolved,Yes,No
+TKT1397,2025-03-08 19:19:56,2025-03-18 19:19:56,Finance,Email,Low,In Progress,No,Yes
+TKT1398,2025-03-23 22:02:37,2025-03-30 22:02:37,Finance,Software,High,In Progress,No,No
+TKT1399,2025-02-11 03:32:30,2025-02-17 03:32:30,Sales,Software,High,Resolved,Yes,Yes
+TKT1400,2025-03-13 00:09:23,2025-03-20 00:09:23,IT,Hardware,Low,Resolved,No,No
+TKT1401,2025-05-24 16:42:46,2025-05-30 16:42:46,Finance,Email,Low,Closed,No,No
+TKT1402,2025-07-27 18:53:07,2025-08-05 18:53:07,HR,Software,Medium,In Progress,No,Yes
+TKT1403,2025-07-07 12:34:51,2025-07-12 12:34:51,Finance,Email,Medium,Open,No,Yes
+TKT1404,2025-04-15 20:13:47,2025-04-22 20:13:47,Sales,Hardware,Low,In Progress,No,No
+TKT1405,2025-03-19 01:33:09,2025-03-29 01:33:09,Finance,Email,High,Closed,No,No
+TKT1406,2025-06-26 03:18:14,2025-07-03 03:18:14,Operations,Email,Critical,Open,No,No
+TKT1407,2025-02-26 02:34:37,2025-03-04 02:34:37,HR,Network,Low,In Progress,No,No
+TKT1408,2025-06-23 20:42:56,2025-07-01 20:42:56,IT,Hardware,Low,Closed,No,No
+TKT1409,2025-04-24 01:13:43,2025-05-01 01:13:43,HR,Email,Low,Closed,No,No
+TKT1410,2025-07-24 11:32:54,2025-07-25 11:32:54,Operations,Network,High,Resolved,No,No
+TKT1411,2025-02-08 07:25:37,2025-02-12 07:25:37,Sales,Access,Low,Open,No,No
+TKT1412,2025-04-04 23:05:28,2025-04-09 23:05:28,Finance,Network,Low,Resolved,No,No
+TKT1413,2025-06-12 03:50:45,2025-06-16 03:50:45,Sales,Software,Medium,In Progress,No,No
+TKT1414,2025-06-22 12:45:58,2025-07-01 12:45:58,IT,Network,Low,Closed,No,No
+TKT1415,2025-06-05 04:19:28,2025-06-10 04:19:28,HR,Network,Critical,Closed,Yes,No
+TKT1416,2025-07-02 00:45:47,2025-07-09 00:45:47,HR,Hardware,Critical,Closed,No,No
+TKT1417,2025-03-30 02:28:12,2025-04-05 02:28:12,Finance,Access,High,In Progress,Yes,No
+TKT1418,2025-04-08 19:34:08,2025-04-10 19:34:08,Sales,Email,High,Open,No,No
+TKT1419,2025-04-20 17:17:56,2025-04-21 17:17:56,Operations,Software,Critical,Closed,No,No
+TKT1420,2025-04-26 17:34:17,2025-05-06 17:34:17,IT,Network,High,Open,No,No
+TKT1421,2025-04-22 15:22:59,2025-04-23 15:22:59,Operations,Access,High,In Progress,Yes,No
+TKT1422,2025-07-20 11:08:07,2025-07-24 11:08:07,Finance,Access,High,Resolved,No,No
+TKT1423,2025-03-21 10:25:06,2025-03-22 10:25:06,IT,Hardware,High,Closed,No,Yes
+TKT1424,2025-06-25 15:40:08,2025-06-30 15:40:08,IT,Access,High,Closed,No,No
+TKT1425,2025-05-25 13:49:04,2025-05-28 13:49:04,Finance,Network,High,In Progress,No,No
+TKT1426,2025-02-10 09:23:17,2025-02-13 09:23:17,Finance,Hardware,Low,In Progress,Yes,Yes
+TKT1427,2025-05-02 11:18:59,2025-05-08 11:18:59,IT,Email,Medium,Resolved,No,Yes
+TKT1428,2025-04-11 23:52:13,2025-04-21 23:52:13,Sales,Email,Medium,In Progress,No,No
+TKT1429,2025-03-01 22:15:02,2025-03-08 22:15:02,Finance,Software,Medium,Resolved,Yes,No
+TKT1430,2025-03-15 10:03:45,2025-03-19 10:03:45,IT,Network,Low,Closed,No,Yes
+TKT1431,2025-05-26 17:03:25,2025-05-27 17:03:25,Operations,Software,Medium,In Progress,No,No
+TKT1432,2025-07-16 10:14:00,2025-07-21 10:14:00,Operations,Network,High,In Progress,Yes,No
+TKT1433,2025-06-26 06:27:38,2025-06-30 06:27:38,IT,Software,Medium,Open,No,No
+TKT1434,2025-03-25 09:01:59,2025-04-03 09:01:59,Operations,Email,Medium,Resolved,No,No
+TKT1435,2025-03-18 03:10:38,2025-03-26 03:10:38,Operations,Hardware,Medium,Closed,Yes,No
+TKT1436,2025-07-26 15:44:49,2025-08-05 15:44:49,HR,Email,High,Resolved,No,No
+TKT1437,2025-03-09 07:44:00,2025-03-19 07:44:00,HR,Hardware,Low,Open,No,No
+TKT1438,2025-02-26 18:24:31,2025-03-01 18:24:31,Finance,Email,Medium,Resolved,Yes,No
+TKT1439,2025-03-31 00:57:07,2025-04-07 00:57:07,IT,Network,Medium,Resolved,No,No
+TKT1440,2025-06-12 04:54:46,2025-06-21 04:54:46,Operations,Software,High,Open,No,No
+TKT1441,2025-06-23 22:30:17,2025-06-29 22:30:17,IT,Email,High,Closed,No,No
+TKT1442,2025-02-05 02:29:21,2025-02-08 02:29:21,Operations,Hardware,Medium,Resolved,No,No
+TKT1443,2025-05-05 13:47:23,2025-05-06 13:47:23,IT,Hardware,Medium,Closed,No,No
+TKT1444,2025-06-27 08:13:40,2025-07-07 08:13:40,Finance,Access,Low,Closed,No,No
+TKT1445,2025-07-22 15:58:45,2025-07-29 15:58:45,IT,Hardware,Critical,Open,Yes,No
+TKT1446,2025-06-22 10:03:12,2025-07-01 10:03:12,IT,Software,High,Open,No,No
+TKT1447,2025-07-09 05:12:18,2025-07-10 05:12:18,Sales,Access,Low,In Progress,No,No
+TKT1448,2025-03-29 04:03:57,2025-03-30 04:03:57,Sales,Email,Critical,Resolved,Yes,No
+TKT1449,2025-05-04 16:28:19,2025-05-14 16:28:19,HR,Email,Critical,Closed,No,No
+TKT1450,2025-03-11 22:17:59,2025-03-12 22:17:59,Sales,Email,High,Resolved,Yes,No
+TKT1451,2025-03-23 13:10:45,2025-03-27 13:10:45,IT,Access,High,Resolved,No,No
+TKT1452,2025-05-05 22:30:44,2025-05-09 22:30:44,Sales,Software,Critical,In Progress,No,No
+TKT1453,2025-04-18 14:00:40,2025-04-24 14:00:40,HR,Access,Medium,In Progress,Yes,No
+TKT1454,2025-02-20 04:52:13,2025-02-26 04:52:13,HR,Email,Critical,In Progress,No,No
+TKT1455,2025-03-05 00:37:31,2025-03-13 00:37:31,IT,Email,Critical,In Progress,No,No
+TKT1456,2025-04-24 05:07:41,2025-05-04 05:07:41,Sales,Email,Low,Open,No,No
+TKT1457,2025-06-15 14:40:48,2025-06-22 14:40:48,Sales,Software,High,In Progress,Yes,No
+TKT1458,2025-04-13 10:14:54,2025-04-16 10:14:54,Operations,Network,High,In Progress,No,No
+TKT1459,2025-06-16 21:23:37,2025-06-18 21:23:37,Operations,Network,Critical,In Progress,No,No
+TKT1460,2025-03-16 13:16:05,2025-03-18 13:16:05,Operations,Hardware,High,In Progress,Yes,No
+TKT1461,2025-04-30 23:42:16,2025-05-04 23:42:16,HR,Software,High,In Progress,No,No
+TKT1462,2025-05-15 15:58:11,2025-05-17 15:58:11,Sales,Software,Medium,In Progress,No,No
+TKT1463,2025-06-09 11:18:59,2025-06-16 11:18:59,Sales,Hardware,Critical,Resolved,Yes,No
+TKT1464,2025-05-02 09:42:49,2025-05-10 09:42:49,HR,Network,Low,Closed,No,No
+TKT1465,2025-05-27 10:05:48,2025-06-04 10:05:48,IT,Access,Low,Resolved,No,No
+TKT1466,2025-02-14 05:41:47,2025-02-20 05:41:47,Sales,Network,Critical,Resolved,No,No
+TKT1467,2025-07-28 16:20:08,2025-07-29 16:20:08,HR,Hardware,Critical,Resolved,No,Yes
+TKT1468,2025-02-01 03:13:44,2025-02-02 03:13:44,Finance,Hardware,High,In Progress,Yes,No
+TKT1469,2025-03-18 10:49:50,2025-03-22 10:49:50,Sales,Software,Low,Closed,Yes,Yes
+TKT1470,2025-03-23 00:35:54,2025-03-24 00:35:54,HR,Software,Low,Open,No,No
+TKT1471,2025-04-16 21:42:19,2025-04-23 21:42:19,HR,Email,High,Resolved,No,No
+TKT1472,2025-03-01 10:11:26,2025-03-05 10:11:26,Operations,Email,High,Closed,No,No
+TKT1473,2025-03-03 04:45:43,2025-03-07 04:45:43,Finance,Network,Critical,Closed,No,No
+TKT1474,2025-02-24 21:41:22,2025-03-02 21:41:22,Finance,Hardware,High,Resolved,No,No
+TKT1475,2025-05-15 17:50:08,2025-05-24 17:50:08,Finance,Network,Low,Open,No,No
+TKT1476,2025-04-15 18:03:36,2025-04-22 18:03:36,Sales,Hardware,High,Resolved,No,No
+TKT1477,2025-07-23 18:02:35,2025-07-31 18:02:35,HR,Hardware,Low,In Progress,No,No
+TKT1478,2025-04-17 15:44:21,2025-04-22 15:44:21,Finance,Network,Low,Closed,Yes,Yes
+TKT1479,2025-07-30 05:25:58,2025-07-31 05:25:58,Sales,Access,Medium,In Progress,No,No
+TKT1480,2025-04-06 06:05:18,2025-04-14 06:05:18,Finance,Email,High,Closed,No,No
+TKT1481,2025-04-02 13:13:01,2025-04-03 13:13:01,Operations,Hardware,Critical,In Progress,No,No
+TKT1482,2025-07-18 15:42:13,2025-07-24 15:42:13,IT,Software,High,Resolved,No,No
+TKT1483,2025-05-15 20:51:43,2025-05-18 20:51:43,Operations,Hardware,Low,Open,Yes,No
+TKT1484,2025-04-20 15:57:28,2025-04-21 15:57:28,Operations,Email,High,Closed,No,Yes
+TKT1485,2025-07-14 04:40:14,2025-07-22 04:40:14,IT,Email,Critical,Closed,No,No
+TKT1486,2025-07-27 05:34:27,2025-07-30 05:34:27,IT,Access,Critical,Closed,No,No
+TKT1487,2025-04-29 22:01:46,2025-05-09 22:01:46,Sales,Email,Critical,In Progress,No,No
+TKT1488,2025-06-29 01:19:10,2025-07-02 01:19:10,Finance,Hardware,Medium,Open,Yes,No
+TKT1489,2025-02-23 09:44:40,2025-03-02 09:44:40,IT,Software,Medium,Resolved,No,No
+TKT1490,2025-03-26 08:39:45,2025-04-05 08:39:45,Finance,Access,Low,Resolved,Yes,No
+TKT1491,2025-07-20 07:37:55,2025-07-25 07:37:55,Operations,Network,Critical,In Progress,No,No
+TKT1492,2025-05-06 16:26:37,2025-05-13 16:26:37,Operations,Network,Low,In Progress,No,Yes
+TKT1493,2025-06-07 01:04:34,2025-06-16 01:04:34,HR,Hardware,High,Closed,No,No
+TKT1494,2025-03-19 14:58:22,2025-03-24 14:58:22,Operations,Email,Medium,Open,No,Yes
+TKT1495,2025-04-15 15:53:21,2025-04-18 15:53:21,Sales,Software,Low,Open,Yes,No
+TKT1496,2025-04-29 06:18:12,2025-05-01 06:18:12,Sales,Network,Critical,In Progress,No,No
+TKT1497,2025-07-23 09:25:07,2025-07-26 09:25:07,Sales,Access,Critical,Resolved,No,No
+TKT1498,2025-04-17 09:32:47,2025-04-25 09:32:47,IT,Network,Medium,Open,No,No
+TKT1499,2025-02-27 04:08:54,2025-03-09 04:08:54,Finance,Access,Critical,Resolved,Yes,No
