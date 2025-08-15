@@ -10,7 +10,7 @@ IT support teams often struggle to track and optimize ticket resolution due to s
 
 ---
 
-## 🛠️ Approach (STAR Method)
+## 🛠️ Approach 
 
 ### **Situation**
 Recognized the need for a **comprehensive analytics dashboard** to track and optimize IT support operations by analyzing ticket data.
