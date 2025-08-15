@@ -1,17 +1,1 @@
-IT Ticket Trend Analysis (Power BI Dashboard)
-
-This project analyses IT support tickets using a sample dataset to identify key operational trends. It visualises insights such as ticket volume, SLA breaches, resolution time, and issue categorisation using Power BI.
-
----
-
-Key Features
-
-- Monthly ticket volume trend
-- SLA breach rate and trends
-- Department-wise ticket distribution
-- Ticket category and priority analysis
-
-Tools Used
-
-- **Power BI Desktop** (for dashboard creation)
-- **CSV file** (as data source)
+### Please refer the new README.md File.
